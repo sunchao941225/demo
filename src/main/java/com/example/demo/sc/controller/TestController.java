@@ -25,6 +25,6 @@ public class TestController {
 
     @RequestMapping("/hello")
     public String say(){
-        return "hello wzx";
+        return "hello sc";
     }
 }
